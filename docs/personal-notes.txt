@@ -1,0 +1,35 @@
+PHIẾU CÁ NHÂN — DAY 14
+Annotation nộp bằng Save/completed trên CVAT. Coach thu/review riêng.
+
+Packet / slot / case / lượt:
+Task / job:
+Track CVAT / object được giao:
+Phạm vi local frame / source frame:
+Guideline / profile calibration đã đọc:
+
+Frame fit và lý do:
+L / W / H (m):
+Keyframe quan trọng và lý do:
+Frame nội suy đã kiểm:
+Đoạn thưa / che khuất / dễ nhầm identity:
+
+Phát hiện temporal và frame/evidence:
+Quyết định độc lập trước review:
+Phản hồi nhận được:
+Hành động sau review và lý do:
+
+Ca bình thường Camera–LiDAR (frame/camera/quan sát):
+Ca khó (frame/camera/quan sát 2D, 3D):
+Giả thuyết nguyên nhân / giới hạn kết luận:
+Hành động sửa / giữ / escalation và người nhận:
+
+Đã Save và mở lại kiểm:
+Trạng thái job cuối / blocker:
+
+TỔNG KẾT BỘ JOB
+Job đã bắt đầu:
+Job đã Save/completed:
+Job chưa bắt đầu:
+Job còn cần rework / blocker:
+Mẫu peer check và phản hồi:
+Thời gian làm J01 / mini-job / self-QC:
