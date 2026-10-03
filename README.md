@@ -4,6 +4,7 @@ Bài cá nhân **4 giờ**: hoàn thiện một track 3D dài trên CVAT, tự Q
 
 | Tài liệu | Đọc khi nào |
 | --- | --- |
+| [Hướng dẫn chi tiết đầy đủ](HUONG_DAN_CHI_TIET.md) | **ĐỌC ĐẦU TIÊN**: Quy trình setup, lưu ý giải nén, tạo label không lỗi & gán nhãn |
 | [Bài lab](docs/lab.md) | Đầu buổi và trong suốt bài: các bước, checkpoint, cách kết thúc |
 | [Hướng dẫn bằng hình](docs/huong-dan-hinh.md) | Lần đầu mở job 3D: chỗ bấm để tạo track, fit cuboid, đọc keyframe/outside/occluded, Save → completed |
 | [Overlay camera trên CVAT local](docs/cvat-overlay.md) | Khi muốn xem cuboid chiếu lên ảnh `image_1` ngay trong job 3D |
